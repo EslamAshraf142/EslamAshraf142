@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EslamAshraf
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Artificial intelligence
